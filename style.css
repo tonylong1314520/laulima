@@ -13,20 +13,6 @@
 .ui.fitted.four.column.grid.container {
   margin-top: 20px;
 }
-#left-box {
-  width: 45%;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  margin-left: 20px;
-  border: 1px solid gray;
-}
-#right-box {
-  width: 45%;
-  margin-bottom: 20px;
-  margin-right: 20px;
-  float: right;
-  border: 1px solid gray;
-}
 h3 {
   text-align: center;
 }
@@ -35,4 +21,8 @@ h3 {
 }
 .ui.fitted.two.column.grid.container {
   margin-top: 20px;
+}
+.text {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
 }
